@@ -1,6 +1,6 @@
 {
   "name": "defaults-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny, dependency-free defaults implementation leveraging ES6 syntax",
   "main": "src/defaults.js",
   "scripts": {
