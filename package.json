@@ -1,0 +1,29 @@
+{
+  "name": "defaults-deep-es6",
+  "version": "1.0.0",
+  "description": "Tiny, dependency-free defaults deep implementation leveraging ES6 syntax",
+  "main": "src/defaults.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryphonmyers/defaults-deep-es6.git"
+  },
+  "keywords": [
+    "defaults",
+    "es6",
+    "lodash",
+    "defaults",
+    "deep"
+  ],
+  "author": "Gryphon Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryphonmyers/defaults-deep-es6/issues"
+  },
+  "homepage": "https://github.com/gryphonmyers/defaults-deep-es6#readme",
+  "devDependencies": {
+    "tap": "^10.7.3"
+  }
+}
