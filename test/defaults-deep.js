@@ -1,6 +1,6 @@
 var tap = require('tap')
 
-var defaultsDeep = require('../src/defaults-deep');
+var defaultsDeep = require('../deep');
 
 tap.same(defaultsDeep({
     a: [1,2]

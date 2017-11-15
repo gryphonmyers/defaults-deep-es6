@@ -1,6 +1,5 @@
 var tap = require('tap')
 
-var defaultsDeep = require('../src/defaults-deep');
 var defaults = require('../src/defaults');
 
 var obj = {a: 2};
