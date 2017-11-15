@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gryphonmyers/defaults-deep-es6.git"
+    "url": "git+https://github.com/gryphonmyers/defaults-es6.git"
   },
   "keywords": [
     "defaults",
@@ -20,9 +20,9 @@
   "author": "Gryphon Myers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gryphonmyers/defaults-deep-es6/issues"
+    "url": "https://github.com/gryphonmyers/defaults-es6/issues"
   },
-  "homepage": "https://github.com/gryphonmyers/defaults-deep-es6#readme",
+  "homepage": "https://github.com/gryphonmyers/defaults-es6#readme",
   "devDependencies": {
     "tap": "^10.7.3"
   }
